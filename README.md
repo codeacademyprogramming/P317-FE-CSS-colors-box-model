@@ -29,5 +29,6 @@
 ### Homework
 Task 1             |  Task 2
 :-------------------------:|:-------------------------:
-![]()  |  ![]()
+![](https://user-images.githubusercontent.com/57169563/120698553-44162900-c4c0-11eb-8ba0-42562e915675.png)  |  ![](https://user-images.githubusercontent.com/57169563/120698573-49737380-c4c0-11eb-977e-d5fdc669cb1b.png)
+
 
